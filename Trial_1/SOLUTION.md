@@ -4,12 +4,12 @@
 
 ### index.html
 
-8 - <script src="app.js"></script>
+8 - `<script src="app.js"></script>`
 
-8 + <script src="bundle.js"></script>
+8 + `<script src="bundle.js"></script>`
 
 ## favicon.ico 404
 
 ### index.html
 
-6 + <link rel="shortcut icon" href="#" />
+6 + `<link rel="shortcut icon" href="#" />`
