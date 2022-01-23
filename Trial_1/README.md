@@ -18,5 +18,5 @@ Good luck!!!
 >
 > 1.  npm install
 > 2.  npm run build (builds bundle.js)
-> 3.  npm start (If using the provided server use "npm run server" instead)
-> 4.  Go to [localhost:8080](localhost:8080) in your browser and start debugging!
+> 3.  npm start (If you haven't previously installed live-server, run npm install -g live-server)
+> 4.  Go to the link provided by live-server in your browser and start debugging!
